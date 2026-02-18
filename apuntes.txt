@@ -1,0 +1,1 @@
+Hoy aprendí que en lógica Not 1=0 y Not 0=1 Si no soy administrador (NOT 1), el sistema me bloquea
